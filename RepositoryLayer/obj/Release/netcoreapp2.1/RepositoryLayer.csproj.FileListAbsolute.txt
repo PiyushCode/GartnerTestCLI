@@ -7,3 +7,12 @@ D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\RepositoryLayer\bin\Release\netcorea
 D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\RepositoryLayer\bin\Release\netcoreapp2.1\RepositoryLayer.pdb
 D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\RepositoryLayer\obj\Release\netcoreapp2.1\RepositoryLayer.dll
 D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\RepositoryLayer\obj\Release\netcoreapp2.1\RepositoryLayer.pdb
+D:\gartner\GartnerTestCLI\RepositoryLayer\bin\Release\netcoreapp2.1\RepositoryLayer.deps.json
+D:\gartner\GartnerTestCLI\RepositoryLayer\bin\Release\netcoreapp2.1\RepositoryLayer.dll
+D:\gartner\GartnerTestCLI\RepositoryLayer\bin\Release\netcoreapp2.1\RepositoryLayer.pdb
+D:\gartner\GartnerTestCLI\RepositoryLayer\obj\Release\netcoreapp2.1\RepositoryLayer.csprojAssemblyReference.cache
+D:\gartner\GartnerTestCLI\RepositoryLayer\obj\Release\netcoreapp2.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\gartner\GartnerTestCLI\RepositoryLayer\obj\Release\netcoreapp2.1\RepositoryLayer.AssemblyInfoInputs.cache
+D:\gartner\GartnerTestCLI\RepositoryLayer\obj\Release\netcoreapp2.1\RepositoryLayer.AssemblyInfo.cs
+D:\gartner\GartnerTestCLI\RepositoryLayer\obj\Release\netcoreapp2.1\RepositoryLayer.dll
+D:\gartner\GartnerTestCLI\RepositoryLayer\obj\Release\netcoreapp2.1\RepositoryLayer.pdb

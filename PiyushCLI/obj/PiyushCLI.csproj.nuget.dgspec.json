@@ -48,6 +48,10 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "Microsoft.CodeAnalysis.Common": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
             "Microsoft.Extensions.CommandLineUtils": {
               "target": "Package",
               "version": "[1.1.1, )"
@@ -111,6 +115,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "Microsoft.CodeAnalysis": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
+            "Microsoft.CodeAnalysis.Common": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.7, )"
@@ -123,7 +135,7 @@
             },
             "MySql.Data.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.20, )"
+              "version": "[8.0.21, )"
             }
           },
           "imports": [
@@ -175,6 +187,10 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "Microsoft.CodeAnalysis.Common": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",

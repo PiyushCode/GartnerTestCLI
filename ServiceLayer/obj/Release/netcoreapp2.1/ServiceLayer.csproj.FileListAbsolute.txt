@@ -12,3 +12,17 @@ D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\ServiceLayer\bin\Release\netcoreapp2
 D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\ServiceLayer\obj\Release\netcoreapp2.1\ServiceLayer.csproj.CopyComplete
 D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\ServiceLayer\obj\Release\netcoreapp2.1\ServiceLayer.dll
 D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\ServiceLayer\obj\Release\netcoreapp2.1\ServiceLayer.pdb
+D:\gartner\GartnerTestCLI\ServiceLayer\bin\Release\netcoreapp2.1\ServiceLayer.deps.json
+D:\gartner\GartnerTestCLI\ServiceLayer\bin\Release\netcoreapp2.1\ServiceLayer.dll
+D:\gartner\GartnerTestCLI\ServiceLayer\bin\Release\netcoreapp2.1\ServiceLayer.pdb
+D:\gartner\GartnerTestCLI\ServiceLayer\bin\Release\netcoreapp2.1\Newtonsoft.Json.dll
+D:\gartner\GartnerTestCLI\ServiceLayer\bin\Release\netcoreapp2.1\RepositoryLayer.dll
+D:\gartner\GartnerTestCLI\ServiceLayer\bin\Release\netcoreapp2.1\RepositoryLayer.pdb
+D:\gartner\GartnerTestCLI\ServiceLayer\bin\Release\netcoreapp2.1\Newtonsoft.Json.xml
+D:\gartner\GartnerTestCLI\ServiceLayer\obj\Release\netcoreapp2.1\ServiceLayer.csprojAssemblyReference.cache
+D:\gartner\GartnerTestCLI\ServiceLayer\obj\Release\netcoreapp2.1\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\gartner\GartnerTestCLI\ServiceLayer\obj\Release\netcoreapp2.1\ServiceLayer.AssemblyInfoInputs.cache
+D:\gartner\GartnerTestCLI\ServiceLayer\obj\Release\netcoreapp2.1\ServiceLayer.AssemblyInfo.cs
+D:\gartner\GartnerTestCLI\ServiceLayer\obj\Release\netcoreapp2.1\ServiceLayer.csproj.CopyComplete
+D:\gartner\GartnerTestCLI\ServiceLayer\obj\Release\netcoreapp2.1\ServiceLayer.dll
+D:\gartner\GartnerTestCLI\ServiceLayer\obj\Release\netcoreapp2.1\ServiceLayer.pdb

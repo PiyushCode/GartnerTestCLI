@@ -1,0 +1,25 @@
+Hello TEAM
+
+###### Below are some steps to run the CLI app:
+
+1- Clone the repository
+2- Go to this folder : PiyushCLI\PiyushCLI\bin\Release\netcoreapp2.1\win-x64
+3- Open CMD on this folder enter command 
+	"PiyushCLI import"
+4- PiyushCLI is application name so without installation you have to use it if you install this application you won't need to use PiyushCLI keyword.
+5- Once you use "PiyushCLI import" command you will get further instruction to use this app.
+
+
+
+
+######## Things  covered in application
+
+1- Basic level of n-tier architecture.
+2- Only few test cases are covered just to demonstration purpose only.
+3- Automapper is not used for mapping of Viewmodel with entities.
+4- MongoDB extension is not covered: we can extend it by using one more DB context in a different tier.
+
+
+
+
+

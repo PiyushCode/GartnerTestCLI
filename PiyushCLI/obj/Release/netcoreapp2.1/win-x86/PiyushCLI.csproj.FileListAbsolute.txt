@@ -1,0 +1,13 @@
+D:\gartner\GartnerTestCLI\PiyushCLI\bin\Release\netcoreapp2.1\win-x86\Newtonsoft.Json.dll
+D:\gartner\GartnerTestCLI\PiyushCLI\bin\Release\netcoreapp2.1\win-x86\RepositoryLayer.dll
+D:\gartner\GartnerTestCLI\PiyushCLI\bin\Release\netcoreapp2.1\win-x86\ServiceLayer.dll
+D:\gartner\GartnerTestCLI\PiyushCLI\bin\Release\netcoreapp2.1\win-x86\RepositoryLayer.pdb
+D:\gartner\GartnerTestCLI\PiyushCLI\bin\Release\netcoreapp2.1\win-x86\ServiceLayer.pdb
+D:\gartner\GartnerTestCLI\PiyushCLI\bin\Release\netcoreapp2.1\win-x86\Newtonsoft.Json.xml
+D:\gartner\GartnerTestCLI\PiyushCLI\obj\Release\netcoreapp2.1\win-x86\PiyushCLI.csprojAssemblyReference.cache
+D:\gartner\GartnerTestCLI\PiyushCLI\obj\Release\netcoreapp2.1\win-x86\PiyushCLI.csproj.CoreCompileInputs.cache
+D:\gartner\GartnerTestCLI\PiyushCLI\obj\Release\netcoreapp2.1\win-x86\PiyushCLI.AssemblyInfoInputs.cache
+D:\gartner\GartnerTestCLI\PiyushCLI\obj\Release\netcoreapp2.1\win-x86\PiyushCLI.AssemblyInfo.cs
+D:\gartner\GartnerTestCLI\PiyushCLI\obj\Release\netcoreapp2.1\win-x86\PiyushCLI.csproj.CopyComplete
+D:\gartner\GartnerTestCLI\PiyushCLI\obj\Release\netcoreapp2.1\win-x86\PiyushCLI.dll
+D:\gartner\GartnerTestCLI\PiyushCLI\obj\Release\netcoreapp2.1\win-x86\PiyushCLI.pdb
