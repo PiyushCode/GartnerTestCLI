@@ -1,0 +1,14 @@
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\ServiceLayer\bin\Debug\netcoreapp2.1\ServiceLayer.deps.json
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\ServiceLayer\bin\Debug\netcoreapp2.1\ServiceLayer.dll
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\ServiceLayer\bin\Debug\netcoreapp2.1\ServiceLayer.pdb
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\ServiceLayer\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\ServiceLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.dll
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\ServiceLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.pdb
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\ServiceLayer\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.csprojAssemblyReference.cache
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.AssemblyInfoInputs.cache
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.AssemblyInfo.cs
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.csproj.CopyComplete
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.dll
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.pdb

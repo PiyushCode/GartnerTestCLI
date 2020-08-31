@@ -1,0 +1,9 @@
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\RepositoryLayer\obj\Release\netcoreapp2.1\RepositoryLayer.csprojAssemblyReference.cache
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\RepositoryLayer\obj\Release\netcoreapp2.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\RepositoryLayer\obj\Release\netcoreapp2.1\RepositoryLayer.AssemblyInfoInputs.cache
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\RepositoryLayer\obj\Release\netcoreapp2.1\RepositoryLayer.AssemblyInfo.cs
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\RepositoryLayer\bin\Release\netcoreapp2.1\RepositoryLayer.deps.json
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\RepositoryLayer\bin\Release\netcoreapp2.1\RepositoryLayer.dll
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\RepositoryLayer\bin\Release\netcoreapp2.1\RepositoryLayer.pdb
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\RepositoryLayer\obj\Release\netcoreapp2.1\RepositoryLayer.dll
+D:\Code\PiyushJoshi_coding_and_DB\PiyushCLI\RepositoryLayer\obj\Release\netcoreapp2.1\RepositoryLayer.pdb
